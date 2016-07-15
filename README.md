@@ -74,5 +74,4 @@ Rinse and repeat.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/skiff.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/newellista/skiff.

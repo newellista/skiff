@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{DS18b20 One-Wire temperature probe reader}
   spec.description   = %q{DS18b20 One-Wire temperature probe reader.}
   spec.homepage      = "https://github.com/newellista/skiff"
+  spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "bin"
