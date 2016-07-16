@@ -1,6 +1,6 @@
 module Skiff
   class Probe
-    def self.initialize(base_path, name)
+    def initialize(base_path, name)
       @full_path_name = File.join([base_path, name, "w1_slave"])
     end
 

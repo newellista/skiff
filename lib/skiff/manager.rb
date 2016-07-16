@@ -1,6 +1,7 @@
 module Skiff
   class Manager
-    def intitialize(base_path = '/sys/bus/w1/devices')
+    def initialize(base_path = '/sys/bus/w1/devices')
+      binding.pry
       @base_path = base_path
     end
 
